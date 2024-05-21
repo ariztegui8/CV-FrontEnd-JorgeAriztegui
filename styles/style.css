@@ -81,3 +81,11 @@ hr{
 .color-fondo{
     background: #333333;
 }
+
+.fontLi{
+    font-weight: 600;
+}
+
+.spanLi{
+    font-weight: 400;
+}
